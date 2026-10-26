@@ -1,0 +1,9 @@
+aiogram==3.22.0
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-dotenv
+pydantic-settings
+python-multipart
